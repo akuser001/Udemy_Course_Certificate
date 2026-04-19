@@ -18,5 +18,3 @@ This repository documents my completion of the course “C Programming - Basics 
 ## Purpose
 
 This repository serves as a record of completing the course and the concepts covered along the way.
-
----
